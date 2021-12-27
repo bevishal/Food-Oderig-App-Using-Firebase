@@ -2,7 +2,7 @@
 
 TomatoMeals is a Food ordering app that contain list of foods (or Menu) and allow user to add that into cart and order by giving contect info.
 
-It is devoloped using Ract and context, It uses [Google firebase](https://firebase.google.com/) to retrive the food data and send back the order details to server when user confirm the order.
+It is devoloped using [React](https://reactjs.org/) and [Context](https://reactjs.org/docs/context.html), It uses [Google firebase](https://firebase.google.com/) to retrive the food data and send back the order details to server when user confirm the order.
 
 ## Technology used
  [React](https://reactjs.org/) , [Google firebase](https://firebase.google.com/)
