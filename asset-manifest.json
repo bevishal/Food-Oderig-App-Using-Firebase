@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/bevishal/Food-Oderig-App-Using-Firebase/static/css/main.e1aaf7d7.chunk.css",
-    "main.js": "/bevishal/Food-Oderig-App-Using-Firebase/static/js/main.f58c06c9.chunk.js",
-    "main.js.map": "/bevishal/Food-Oderig-App-Using-Firebase/static/js/main.f58c06c9.chunk.js.map",
-    "runtime-main.js": "/bevishal/Food-Oderig-App-Using-Firebase/static/js/runtime-main.3a4462fe.js",
-    "runtime-main.js.map": "/bevishal/Food-Oderig-App-Using-Firebase/static/js/runtime-main.3a4462fe.js.map",
-    "static/js/2.90df6f8e.chunk.js": "/bevishal/Food-Oderig-App-Using-Firebase/static/js/2.90df6f8e.chunk.js",
-    "static/js/2.90df6f8e.chunk.js.map": "/bevishal/Food-Oderig-App-Using-Firebase/static/js/2.90df6f8e.chunk.js.map",
-    "index.html": "/bevishal/Food-Oderig-App-Using-Firebase/index.html",
-    "static/css/main.e1aaf7d7.chunk.css.map": "/bevishal/Food-Oderig-App-Using-Firebase/static/css/main.e1aaf7d7.chunk.css.map",
-    "static/js/2.90df6f8e.chunk.js.LICENSE.txt": "/bevishal/Food-Oderig-App-Using-Firebase/static/js/2.90df6f8e.chunk.js.LICENSE.txt",
-    "static/media/meals.2971f633.jpg": "/bevishal/Food-Oderig-App-Using-Firebase/static/media/meals.2971f633.jpg"
+    "main.css": "/Food-Oderig-App-Using-Firebase/static/css/main.e1aaf7d7.chunk.css",
+    "main.js": "/Food-Oderig-App-Using-Firebase/static/js/main.f58c06c9.chunk.js",
+    "main.js.map": "/Food-Oderig-App-Using-Firebase/static/js/main.f58c06c9.chunk.js.map",
+    "runtime-main.js": "/Food-Oderig-App-Using-Firebase/static/js/runtime-main.5bc18c09.js",
+    "runtime-main.js.map": "/Food-Oderig-App-Using-Firebase/static/js/runtime-main.5bc18c09.js.map",
+    "static/js/2.90df6f8e.chunk.js": "/Food-Oderig-App-Using-Firebase/static/js/2.90df6f8e.chunk.js",
+    "static/js/2.90df6f8e.chunk.js.map": "/Food-Oderig-App-Using-Firebase/static/js/2.90df6f8e.chunk.js.map",
+    "index.html": "/Food-Oderig-App-Using-Firebase/index.html",
+    "static/css/main.e1aaf7d7.chunk.css.map": "/Food-Oderig-App-Using-Firebase/static/css/main.e1aaf7d7.chunk.css.map",
+    "static/js/2.90df6f8e.chunk.js.LICENSE.txt": "/Food-Oderig-App-Using-Firebase/static/js/2.90df6f8e.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/Food-Oderig-App-Using-Firebase/static/media/meals.2971f633.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3a4462fe.js",
+    "static/js/runtime-main.5bc18c09.js",
     "static/js/2.90df6f8e.chunk.js",
     "static/css/main.e1aaf7d7.chunk.css",
     "static/js/main.f58c06c9.chunk.js"
